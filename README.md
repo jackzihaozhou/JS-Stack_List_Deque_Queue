@@ -1,10 +1,10 @@
-# f20-project-team12 - JavaScript Array
+JavaScript Array
 
-Team Members:
-- Ziyuan Lin \<ziyuanli@andrew.cmu.edu\>
-- Zihao Zhou \<zihaozho@andrew.cmu.edu\>
-- Xiang Li \<xl5@andrew.cmu.edu\>
-- Youchun Ni \<youchunn@andrew.cmu.edu\>
+Authors:
+- Ziyuan Lin
+- Zihao Zhou
+- Xiang Li
+- Youchun Ni
 ----
 
 JavaScript Array is a mixture of List, Stack, and Queue. We split the implementation into four classes – List, Stack, Deque, and Queue.
