@@ -1,4 +1,4 @@
-#JavaScript Array
+# JavaScript Array
 
 Authors:
 - Ziyuan Lin
