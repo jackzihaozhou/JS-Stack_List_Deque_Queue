@@ -1,4 +1,4 @@
-# JavaScript Array
+# JavaScript Array Seperation
 
 Authors:
 - Ziyuan Lin
